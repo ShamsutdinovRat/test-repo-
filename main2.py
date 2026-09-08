@@ -6,4 +6,4 @@ for i in range (10):
         print("Достаточно пупсик")
         break
 
-print("Hello world")
+print("Hello World main ")
